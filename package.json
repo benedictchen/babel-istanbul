@@ -1,7 +1,7 @@
 {
-  "name": "babel-istanbul",
+  "name": "babel-istanbul-reborn",
   "version": "0.12.2",
-  "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale",
+  "description": "A simple fork of babel-istanbul, but original author might be dead or something.",
   "keywords": [
     "coverage",
     "code coverage",
